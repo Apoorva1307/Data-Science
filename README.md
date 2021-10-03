@@ -1,2 +1,2 @@
-# Data-Science
-Contains Projects in R and Python
+# Data-Science-with-R
+Contains Projects in R 
